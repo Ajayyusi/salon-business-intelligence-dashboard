@@ -1,3 +1,6 @@
+<img width="2938" height="1655" alt="salon_business_intelligence_dashboard" src="https://github.com/user-attachments/assets/72713f99-3105-4b9d-8f10-931b1775879b" />
+
+
 # Salon Business Intelligence Dashboard
 
 ## Business Problem
